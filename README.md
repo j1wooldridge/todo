@@ -1,25 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo is a single-page to-do application features a fluid user interface that by using JavaScript
+allows users to rapidly add dynamic content.
 
-Things you may want to cover:
+Deployed Version
 
-* Ruby version
+Visit https://todoster-jacques-wooldridge.herokuapp.com/ to deploy the app.
 
-* System dependencies
+Screenshot Version
 
-* Configuration
+![Flixter App Screenshot](app/images/Todo_image.png "Screenshot") 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# todo
+Jacques Wooldridge.
